@@ -1,2 +1,2 @@
 # Mouse-Confetti
-https://confetti.notkal.com/
+https://notkal.com/Mouse-Confetti
